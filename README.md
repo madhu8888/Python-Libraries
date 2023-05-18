@@ -12,5 +12,5 @@ The libraries presented here are:
 6. tensorflow
 7. xgboost
 8. keras
-<\br>
+<br />
 There are also files which contain generic python code for practising.
